@@ -20,3 +20,6 @@ Badges hosted by shields.io embedded in markdown
 
 Hope's Utilities extension is a utilitie plugin featuring an Ad-Blocker, VPN, Global Themes, ETC. Our extension was orignally made to be used by students on there school computers for accesing blocked sites but when we fully realised the potential and applications of our extension we switched to github for opensource development and community suggestions + wikipedia.
 
+---
+
+As this is NOT an official chrome webstore extension how do you instal the extension?
