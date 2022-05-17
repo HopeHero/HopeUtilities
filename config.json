@@ -1,11 +1,3 @@
-# # # # # # # # # # #
-# JSON Config File  #
-# # # # # # # # # # #
-
-# # # # # # # # # # # # # # # # #
-# toggle via "true" or "false"  #
-# # # # # # # # # # # # # # # # #
-
-Autoclicker: true
-Ad-Blocker: true
-VPN: true
+VPN = true
+Ad-Blocker = true
+Auto-Clicker = true
