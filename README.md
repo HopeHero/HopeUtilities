@@ -22,4 +22,4 @@ Hope's Utilities extension is a utilitie plugin featuring an Ad-Blocker, VPN, Gl
 
 ---
 
-As this is NOT an official chrome webstore extension how do you instal the extension?
+Where can I find more information on this repositorie and possibly contribute? By checking the wiki of course! We tried our best to document our repository and add tutorials of installation, pull requests, and more.
